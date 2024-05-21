@@ -9,7 +9,7 @@ A simple password generator built using React.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [License](#license)
 
 ## Introduction
 
@@ -55,3 +55,5 @@ The Password Generator is a web application that allows users to generate strong
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
